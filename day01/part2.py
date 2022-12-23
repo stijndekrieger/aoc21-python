@@ -50,4 +50,4 @@ for i in range(len(sums)):
     print(line)
 
 #print answer
-print("There are", amountIncreased, "sums that are higher than the previous ones") 
+print("There are", amountIncreased, "sums that are higher than the previous ones")
